@@ -1,7 +1,4 @@
 { create
         plan
             staging
-                   Production
-                            }
-           stagging
                    }
