@@ -1,5 +1,4 @@
 { create
-
-       plan
-            stagging
-                     }
+        plan
+           stagging
+                   }
